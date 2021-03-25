@@ -6,5 +6,9 @@ public class SimpleProg {
 		int a = 10, b=10;
 		int c = a+b;
 		System.out.println(c);
+		System.out.println("Addition perfomed");
+		
+		int d = a-b;
+		System.out.println(d);
 	}
 }
